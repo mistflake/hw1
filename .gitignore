@@ -1,2 +1,4 @@
 # Project exclude paths
 /out/
+/hw1.iml
+/.idea/
