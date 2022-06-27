@@ -1,4 +1,4 @@
-package org.itmo.java.lesson3;
+package org.itmo.java.lesson.lesson3;
 
 public class StaticExample {
     public static final String STATIC_CONSTANT = "Some constant";

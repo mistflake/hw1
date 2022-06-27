@@ -1,4 +1,4 @@
-package org.itmo.java.lesson3;
+package org.itmo.java.lesson.lesson3;
 
 public class Singleton {
     private static Singleton instance;
@@ -7,7 +7,7 @@ public class Singleton {
 
     }
 
-    public static Singleton getInstance() {
+    public static Singleton getInstance() { //гарантирует единство объекта даже из разных
         if (instance == null) {
             instance = new Singleton();
         }

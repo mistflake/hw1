@@ -1,4 +1,4 @@
-package org.itmo.java.lesson1;
+package org.itmo.java.lesson.lesson1;
 
 import java.util.Scanner;
 

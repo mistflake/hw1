@@ -1,4 +1,4 @@
-package org.itmo.java.lesson2;
+package org.itmo.java.lesson.lesson2;
 
 public class Main {
     public static void main(String[] args) {

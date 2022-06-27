@@ -1,4 +1,4 @@
-package org.itmo.java.homework2;
+package org.itmo.java.homework.homework2;
 
 public class Calculator {
     public static int summ(int varA, int varB) {

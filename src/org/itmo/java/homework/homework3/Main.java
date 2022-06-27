@@ -1,4 +1,4 @@
-package org.itmo.java.homework3;
+package org.itmo.java.homework.homework3;
 
 public class Main {
     public static void main(String[] args) {

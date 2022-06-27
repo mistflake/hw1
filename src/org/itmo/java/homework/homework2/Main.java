@@ -1,4 +1,4 @@
-package org.itmo.java.homework2;
+package org.itmo.java.homework.homework2;
 
 /*
  * 1) Создать класс Calculator. У него должны быть методы:

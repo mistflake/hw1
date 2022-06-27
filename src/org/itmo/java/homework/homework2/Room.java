@@ -1,4 +1,4 @@
-package org.itmo.java.homework2;
+package org.itmo.java.homework.homework2;
 
 public class Room {
     private Double length;

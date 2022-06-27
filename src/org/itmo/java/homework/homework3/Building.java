@@ -1,4 +1,4 @@
-package org.itmo.java.homework3;
+package org.itmo.java.homework.homework3;
 
 import java.util.Calendar;
 
